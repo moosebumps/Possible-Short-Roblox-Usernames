@@ -18,9 +18,10 @@ There are 50,653 entries in this file with 198 KB worth of usernames. This may b
 
 ### [4-Letter-Permutations](https://github.com/moosebumps/Possible-Short-Roblox-Usernames/blob/main/4%20Letter%20Permutations.txt)
 
-### [4-Letter-Allowed-Permutations](https://github.com/moosebumps/Possible-Short-Roblox-Usernames/blob/main/4%20Letter%20Allowed%20Permutations.txt)
+With 1,874,161 combination entries in this file this monster of a file has about 17MB of potential and current usernames. You might need to download this file and open it in WordPad for it to open.
 
-With 1,874,161 combination entries in this file this monster of a file has about --- of potential and current usernames. You might need to download this file and open it in WordPad for it to open. 
+### [4-Letter-Allowed-Permutations](https://github.com/moosebumps/Possible-Short-Roblox-Usernames/blob/main/4%20Letter%20Allowed%20Permutations.txt)
+ 
 
 ## Resources
 This video was very helpful on explaining [Heap's Algorithm](https://en.wikipedia.org/wiki/Heap%27s_algorithm) and how it is calculated in JavaScript. I used this Algorithm to help me calculate the Roblox usernames. Shoutout to [Justin Kim](https://www.youtube.com/c/JustinKimJS) for this video!
